@@ -58,7 +58,7 @@
               </a>
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
-                <span>+01 12345678901</span>
+                <span>+254 788-450-462</span>
               </a>
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
